@@ -127,6 +127,11 @@ const skills = [
     competency: 4,
     category: ['Physics'],
   },
+    {
+    title: 'Vivado',
+    competency: 2,
+    category: ['Physics', 'Simulation', 'Hardware'],
+  },
   
   
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
