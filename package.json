@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://github.com/Raphael0303/Raphael0303.github.io/",
+  "homepage": "Raphael0303.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://Raphael0303.github.io"
+    "url": "https://github.com/Raphael0303/Raphael0303.github.io/"
   },
   "engines": {
     "node": ">=14.x"
