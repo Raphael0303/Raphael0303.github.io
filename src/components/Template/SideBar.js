@@ -20,7 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Raphaël. I like electronics and silicon.
-        I am a <a href="https://www.mines-stetienne.fr/en/academic/ismin-masters-degree-in-microelectronics-and-computer-science/">Ecole des Mines de Saint Etienne ISMIN</a> Student
+        I am a <a href="https://www.mines-stetienne.fr/en/academic/ismin-masters-degree-in-microelectronics-and-computer-science/">Ecole des Mines de Saint Etienne ISMIN</a> student
       </p>
       <ul className="actions">
         <li>

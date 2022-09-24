@@ -16,10 +16,22 @@ const positions = [
     link: 'https://arem.pages.emse.fr/site-web/fr/a_propos/',
     daterange: 'February 2021 - Februrary 2022',
     points: [
+      'While I was a board member, I maintained our partnerships',
       'I helped the association between 2022 and 2023 for some projects.',
       'Designed robots for the French Robotics cup.',
       'Maintained and repaired 3d printers usable by the students.',
       'Taught students how to use a 3d printer from the software to the printing.',
+    ],
+  },
+  {
+    company: 'Mont Duplan\'s kindergarden',
+    position: 'Animator',
+    link: 'https://www.ifac.asso.fr/Accueil-de-loisirs-Mont-Duplan',
+    daterange: 'July 2017 - August 2017',
+    points: [
+      'I got my first job when I was 17.',
+      'I worked with children between 3 and 6.',
+      'In a team of 7, we tried to spark the children\'s curiosity, for that I introduced them to cooking and science.'
     ],
   },
 ];
