@@ -31,7 +31,7 @@ const positions = [
     points: [
       'I got my first job when I was 17.',
       'I worked with children between 3 and 6.',
-      'In a team of 7, we tried to spark the children\'s curiosity, for that I introduced them to cooking and science.'
+      'In a team of 7, we tried to spark the children\'s curiosity, for that I introduced them to cooking and science.',
     ],
   },
 ];
